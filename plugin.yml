@@ -1,0 +1,11 @@
+name: AdvancementAPI
+main: amata1219.advancement.api.AdvancementAPI
+version: 1.0.0
+author: amata1219(Twitter@amata1219)
+
+commands:
+  ad:
+    description: main command.
+    usage: /<command>
+    permission: advancement.api.ad
+    permission-message: You don't have permission(<permission>).
